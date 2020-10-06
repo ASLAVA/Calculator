@@ -1,0 +1,24 @@
+{
+  "name": "Calculator",
+  "version": "1.0.0",
+  "description": "OdinProject calculator project doing basic calculations Comnbing knowledge of HTML,CSS, and JS.",
+  "main": "calculations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASLAVA/Calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASLAVA/Calculator/issues"
+  },
+  "homepage": "https://github.com/ASLAVA/Calculator#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  }
+}

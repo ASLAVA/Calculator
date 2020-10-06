@@ -1,8 +1,8 @@
-function add() {
+function addition() {
 
 }
 
-function subtract(){
+function subtraction(){
 
 }
 function multiplication(){
@@ -11,7 +11,10 @@ function multiplication(){
 function division(){
 
 }
+export function equals(input){
+    console.log(input.toString())
+    return 999;
+}
 
-export {add, multiplication, subtract, division}
 
 
